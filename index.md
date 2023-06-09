@@ -6,3 +6,10 @@
 ###### This is an H6 header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```python
+x = "Python"
+y = "is"
+z = "awesome"
+print(x, y, z)
+```
