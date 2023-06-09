@@ -13,3 +13,8 @@ y = "is"
 z = "awesome"
 print(x, y, z)
 ```
+This is a checklist:
+- [x] This list item is checked
+- [x] So is this one
+- [ ] This one is not checked
+- [ ] Any questions? 
